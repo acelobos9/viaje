@@ -52,9 +52,6 @@ $ ionic cordova emulate android
 
 For more information, see [Ionic CLI's instructions](https://ionicframework.com/docs/cli/).
 
-## Demo
-Install [Ionic View](http://view.ionic.io/) and preview the app on your mobile device using the following Ionic View ID: `d9f5385d`
-
 ## Documentation
 * [Business Directory Quick Start Guide](https://docs.google.com/document/d/1HRU34ANlvkP36TazcVAf5uv1gCm86T4OlD-CexIbTSY/edit?usp=sharing)
 
