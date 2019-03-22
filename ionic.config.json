@@ -1,0 +1,8 @@
+{
+  "name": "business-directory",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "d9f5385d"
+}
